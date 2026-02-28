@@ -1,0 +1,165 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/location/location",
+			"style": {
+				"navigationBarTitleText": "位置",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/message/message",
+			"style": {
+				"navigationBarTitleText": "消息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/settings/settings",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationStyle": "default",
+				"backgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/auth/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "default"
+			}
+		},
+		{
+			"path": "pages/auth/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationStyle": "default"
+			}
+		},
+		{
+			"path": "pages/note/note-detail",
+			"style": {
+				"navigationBarTitleText": "笔记详情",
+				"navigationStyle": "custom",
+				"backgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/chat/chat-detail",
+			"style": {
+				"navigationBarTitleText": "聊天",
+				"navigationStyle": "custom",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/message/likes-list",
+			"style": {
+				"navigationBarTitleText": "赞与收藏",
+				"navigationStyle": "custom",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/message/comments-list",
+			"style": {
+				"navigationBarTitleText": "评论与@",
+				"navigationStyle": "custom",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/message/follows-list",
+			"style": {
+				"navigationBarTitleText": "新增关注",
+				"navigationStyle": "custom",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/message/notifications-list",
+			"style": {
+				"navigationBarTitleText": "系统通知",
+				"navigationStyle": "custom",
+				"backgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/message/group-chat-list",
+			"style": {
+				"navigationBarTitleText": "群聊中心",
+				"navigationStyle": "custom",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/user/edit-profile",
+			"style": {
+				"navigationBarTitleText": "编辑资料",
+				"navigationStyle": "custom",
+				"backgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/user/edit-pet",
+			"style": {
+				"navigationBarTitleText": "编辑爱宠",
+				"navigationStyle": "custom",
+				"backgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/user/add-pet",
+			"style": {
+				"navigationBarTitleText": "添加爱宠",
+				"navigationStyle": "custom",
+				"backgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationStyle": "custom",
+				"backgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/location/park-detail",
+			"style": {
+				"navigationBarTitleText": "遛宠地详情",
+				"navigationStyle": "custom",
+				"backgroundColor": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/location/shop-detail",
+			"style": {
+				"navigationBarTitleText": "宠物店详情",
+				"navigationStyle": "custom",
+				"backgroundColor": "#F5F5F5"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
